@@ -1,21 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.99d27af5.css",
-    "main.js": "/static/js/main.a84fa50c.js",
-    "static/js/787.5863b875.chunk.js": "/static/js/787.5863b875.chunk.js",
+    "main.css": "/static/css/main.7a8bb683.css",
+    "main.js": "/static/js/main.8e4f9de0.js",
     "static/media/glyphicons-halflings-regular.svg": "/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
     "static/media/glyphicons-halflings-regular.ttf": "/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
     "static/media/glyphicons-halflings-regular.woff": "/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
     "static/media/glyphicons-halflings-regular.eot": "/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
     "static/media/glyphicons-halflings-regular.woff2": "/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/favicon.svg": "/static/media/favicon.89907516d242309e4fd70ebea0755879.svg",
     "index.html": "/index.html",
-    "main.99d27af5.css.map": "/static/css/main.99d27af5.css.map",
-    "main.a84fa50c.js.map": "/static/js/main.a84fa50c.js.map",
-    "787.5863b875.chunk.js.map": "/static/js/787.5863b875.chunk.js.map"
+    "main.7a8bb683.css.map": "/static/css/main.7a8bb683.css.map",
+    "main.8e4f9de0.js.map": "/static/js/main.8e4f9de0.js.map"
   },
   "entrypoints": [
-    "static/css/main.99d27af5.css",
-    "static/js/main.a84fa50c.js"
+    "static/css/main.7a8bb683.css",
+    "static/js/main.8e4f9de0.js"
   ]
 }
